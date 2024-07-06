@@ -2,7 +2,7 @@
 
 
 ## **1. Methodology**
--Data Collection --> Data PreProcessing --> Model Training --> Model Testing --> Result Analysis
+Data Collection --> Data PreProcessing --> Model Training --> Model Testing --> Result Analysis
 
 
 ## **2. Description**
